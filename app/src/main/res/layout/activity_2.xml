@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="198dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="518dp"
+        android:text="Ericsson Primary Introduction to Code promotes STEM from an early age and encourages the students to study STEM subjects as they progress to the secondary level education system. The material provided aims to support teachers to bring fun coding projects into their primary school curriculum. They use scratch, micro:bit and html, let us look deeper into micro; bit
+In 2016 – as part of the BBC’s Make it Digital initiative – the micro: bit was given free to millions of pupils across the UK in a bid to address the growing skills shortage in our technology sector. It was hoped that this ingenious little device would inspire digital creativity in a new generation of tech pioneers. " />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="230dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="322dp"
+        android:text="But just what is it?
+
+Put simply, the BBC micro: bit is a pocket-sized, codable computer packed with features. It boasts an ARM-built processor, a motion sensor, built-in compass, USB port, 25 LED lights, buttons, and Bluetooth technology (which was created by Ericsson). So, the micro: bit can be used to create all sorts of things.
+
+The BBC micro: bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors, and many input/output features that, when programmed, let it interact with you and your world. " />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="399dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="420dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="113dp"
+        android:text="The benefits of using micro: bits in the classroom
+
+
+
+Boost engagement
+
+With endless possibilities when it comes to what it can be used for, the whole purpose of the micro: bit is to inspire higher levels of engagement and creativity in a new generation of young people.
+
+Prepare pupils for employment
+
+Making learning with technology fun, the easy-to-use micro: bit encourages students to engage with STEM subjects, boosting their future employability." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="574dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="-8dp"
+        android:text="Ericsson uses micro; bit as a way of introducing TY students doing work experience, to how software and hardware work together. During TY week the mentors use micro; bits with the students. As a fun way of teaching them.
+
+How does the Micro; bit work?
+
+Getting Started with the micro:bit - SparkFun Learn
+
+The micro:bit uses a microUSB cable to hook up to your computer or Chromebook. An app often used with micro;bits is makecode. The app has avaible free tutorials that you can follow along, for example you can code games or shapes (using the turtorials on makecode), onto your micro; bit using this app."
+        android:textSize="12dp" />
+</RelativeLayout>
